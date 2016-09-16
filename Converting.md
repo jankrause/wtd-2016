@@ -38,21 +38,20 @@ Converter
 
 | Property          | Description
 |-------------------|--------------------------------------------------------
-|Component:         | Java Platform Standard Edition 
-|Program:           | java.xml.validation.Validator#validate
-|Version            | 8
-|Link:              | [docs.oracle.com/javase/8/docs/api](http://docs.oracle.com/javase/8/docs/api/javax/xml/validation/Validator.html#validate-javax.xml.transform.Source-)
-|Description        | Java Standard Class Library
+|Component:         | Java Server Faces 
+|Program:           | javax.faces.convert.DateTimeConverter# getAsObject
+|Version            | 2.2
+|Link:              | [javaserverfaces.java.net/docs/2.2](https://javaserverfaces.java.net/docs/2.2/javadocs/javax/faces/convert/DateTimeConverter.html#getAsObject(javax.faces.context.FacesContext, javax.faces.component.UIComponent, java.lang.String))
+|Description        | Java-Web-Framework
 
 ### Assignments
 
 |  Role            | Description                                            
 |------------------|--------------------------------------------------------
-|ALGORITHM         | Checks if an XML-document matches a given reference grammar.
-|PRIMARY KEY       | Not required
-|COMPARISON        | The reference grammar is implementation-depended.
-|REPORT            | The XML-document matches the grammer if no exception occurs.
-|OBJECT            | The content of the XML-document 
-|SOURCE            | The given parameter ```source´´´
-|ERROR OBJECT      | If the XML-document is invalid, an ```IOException´´´ is thrown
-|ERROR SOURCE      | If the given parameter ```source´´´ is ```null´´´, a ```NullPointerException´´´ is thrown
+|RULE              | Not required
+|ALGORITHM         | See algorithm in API-documentation referenced above
+|INSTRUMENT        | The attribute locale of the given instance of UIViewRoot
+|DESTINATION FORMAT| java.util.Date
+|SOURCE FORMAT     | java.lang.String (the specific format must comply with java.text.SimpleFateFormat)
+|OBJECT            | The parameter value
+|ERROR OBJECT      | If parameter value is null, the operation returns null as result
