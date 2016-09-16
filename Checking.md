@@ -33,3 +33,28 @@ Validator
 |REPORT            | always()
 |OBJECT            | always()
 |SOURCE            | always()
+
+## Example
+
+### Overview
+
+| Property          | Description
+|-------------------|--------------------------------------------------------
+|Component:         | Java Platform Standard Edition 
+|Program:           | java.xml.validation.Validator#validate
+|Version            | 8
+|Link:              | [docs.oracle.com/javase/8/docs/api](http://docs.oracle.com/javase/8/docs/api/javax/xml/validation/Validator.html#validate-javax.xml.transform.Source-)
+|Description        | Java Standard Class Library
+
+### Assignments
+
+|  Role            | Description                                            
+|------------------|--------------------------------------------------------
+|ALGORITHM         | Checks if an XML-document matches a given reference grammar.
+|PRIMARY KEY       | Not required
+|COMPARISON        | The reference grammar is implementation-depended.
+|REPORT            | The XML-document matches the grammer if no exception occurs.
+|OBJECT            | The content of the XML-document 
+|SOURCE            | The given parameter ```source´´´
+|ERROR OBJECT      | If the XML-document is invalid, an ```IOException´´´ is thrown
+|ERROR SOURCE      | If the given parameter ```source´´´ is ```null´´´, a ```NullPointerException´´´ is thrown
