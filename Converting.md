@@ -1,7 +1,7 @@
 # Converting Operation 
 
 ## Description 
-A converting operation transforms an OBJECT from the SOURCE_FORMAT into the DESTINATION_FORMAT by using an INSTRUMENT (e.g. external ressource or program), ALGORITHM or RULE. This category bases on the VerbNet classes convert-26.6.2 and Turn-26.6.1.
+A converting operation transforms an OBJECT from the SOURCE_FORMAT into the DESTINATION_FORMAT by using an INSTRUMENT (e.g. external ressource or program), ALGORITHM or RULE. This pattern bases on the VerbNet classes convert-26.6.2 and Turn-26.6.1.
 
 ## Verbs
 get around, change, convert, switch, go back, come around, transform, revert, deform, resort, switch_over, turn, get down, get, metamorphose, 
