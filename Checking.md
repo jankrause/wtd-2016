@@ -1,7 +1,7 @@
 # Checking Operation 
 
 ## Description 
-A checking operation checks if one or more OBJECTs pass a test described by one or more ALGORITHMs or RULEs. The OBJECTs are retrieved from a SOURCE. All tested OBJECTs are identified by one or more COMPARISONs or PRIMARY_KEYs. The result of the test is described by a REPORT. This category bases on the VerbNet classes sight-30.2, peer-30.3 and investigate-35.4
+A checking operation checks if one or more OBJECTs pass a test described by one or more ALGORITHMs or RULEs. The OBJECTs are retrieved from a SOURCE. All tested OBJECTs are identified by one or more COMPARISONs or PRIMARY_KEYs. The result of the test is described by a REPORT. This pattern bases on the VerbNet classes sight-30.2, peer-30.3 and investigate-35.4
 
 ## Verbs
 examine, attend, test, spy, stare, study, contains, validate, has, spot, eavesdrop, survey, eye, gape, monitor, make_out, watch,
