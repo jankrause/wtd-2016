@@ -7,3 +7,29 @@ A checking operation checks if one or more OBJECTs pass a test described by one 
 examine, attend, test, spy, stare, study, contains, validate, has, spot, eavesdrop, survey, eye, gape, monitor, make_out, watch,
 glance, discover, regard, scent, investigate, ransack, canvass, leer, frisk, view, tap, sniff, inspect, explore, raid, scrutinize, perceive, witness, sight, recognize, descry, quiz, gawk, espy, experience, peek, listen, note, look, peer, is, peep, overhear, check,
 glare, glimpse, peruse, savor, observe, goggle, gaze, snoop, squint, scan, ogle, riffle,
+
+## Also known as
+Validator
+
+## Thematic Roles
+
+|  Role            | Description                                            |Mandatory
+|------------------|--------------------------------------------------------|---------
+|ALGORITHM or RULE | Defines the test.                                      | Y
+|PRIMARY KEY       | Identifies the OBJECT to check uniquely in the SOURCE. | N
+|COMPARISON        | Identifies the OBJECT to check in the SOURCE.          | N
+|REPORT            | Summarizes the result of the test                      | Y
+|OBJECT            | What is tested                                         | Y
+|SOURCE            | Where the checked OBJECTs are located                  | Y
+
+## Pattern-specific Rules
+
+|  Role            | Description                                            
+|------------------|--------------------------------------------------------
+|ALGORITHM         | !exists("RULE")
+|RULE              | !exists("ALGORITHM")
+|PRIMARY KEY       | !exists("COMPARISON")
+|COMPARISON        | !exists("PRIMARY KEY")
+|REPORT            | always()
+|OBJECT            | always()
+|SOURCE            | always()
