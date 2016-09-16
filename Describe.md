@@ -19,12 +19,12 @@ recollect, redraw, regard, remember, report, represent, reveal, see, select, spe
 |  Role            | Description                                            |Mandatory
 |------------------|--------------------------------------------------------|---------
 |OBJECT            | What is described.                                     | Y
-|ATTRIBUTE         | Property of the OBJECT used for the description.       | N
+|ATTRIBUTE         | Property of the OBJECT used for the description.       | Y
 |COMPARISON        | Identifies the OBJECT in the SOURCE (not unique).      | N
 |PRIMARY KEY       | Identifies the OBJECT in the SOURCE (unique).          | Y
 |REPORT            | The description                                        | Y
-|SOURCE            | Location, from where the OBJECT is taken               | Y
-|FORMAT            | The structure of the OBJECT at the SOURCE              | Y
+|SOURCE            | Location, from where the OBJECT is taken               | N
+|FORMAT            | The structure of the OBJECT at the SOURCE              | N
 
 ## Pattern-specific Rules
 
