@@ -1,7 +1,7 @@
 # Creating Operation 
 
 ## Description 
-A checking operation checks if one or more OBJECTs pass a test described by one or more ALGORITHMs or RULEs. The OBJECTs are retrieved from a SOURCE. All tested OBJECTs are identified by one or more COMPARISONs or PRIMARY_KEYs. The result of the test is described by a REPORT. This category bases on the VerbNet classes sight-30.2, peer-30.3 and investigate-35.4
+A checking operation checks if one or more OBJECTs pass a test described by one or more ALGORITHMs or RULEs. The OBJECTs are retrieved from a SOURCE. All tested OBJECTs are identified by one or more COMPARISONs or PRIMARY_KEYs. The result of the test is described by a REPORT. This pattern bases on the VerbNet classes sight-30.2, peer-30.3 and investigate-35.4
 
 ## Verbs
 model, cause, formulate, generate, store, recreate, improvise, reconstitute, organize, stage, spawn, style, instigate, invent, compose, dig, publish, derive, rebuild, rearrange, engender, kindle, conjure, reorganize, form, lay, coin, mint, contrive, sire, shape, create, spark, concoct, incite, schedule, manufacture, bring_about, set_off, construct, fabricate, provoke, beget, design, synthesize, produce,
