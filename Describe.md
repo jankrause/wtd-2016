@@ -48,7 +48,7 @@ recollect, redraw, regard, remember, report, represent, reveal, see, select, spe
 |Program:           | cc.mallet.classify.NaiveBayes# classify
 |Version            | 2.0.7
 |Link:              | [mallet.cs.umass.edu](http://mallet.cs.umass.edu/api/cc/mallet/classify/NaiveBayes.html)
-|Description        | Java-Bibliothek zur Klassifikation Texten
+|Description        | Java-Library for the classification of texts
 
 ### Assignments
 
