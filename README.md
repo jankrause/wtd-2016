@@ -1,6 +1,6 @@
 # Improving API-Documentation with Meaningful Names
 
-## [API Documentation Patterns](Catalogue.md)
+## [API Documentation Patterns](PatternCatalogue.md)
 
 ## Theoretical Backgrond
   
