@@ -56,9 +56,6 @@ recollect, redraw, regard, remember, report, represent, reveal, see, select, spe
 |------------|--------------------------------------------------------
 |OBJECT      | The parameter instance
 |ATTRIBUTE   | The components of FeatureVector
-|COMPARISON  | Not required
-|PRIMARY KEY | Not required
 |REPORT      | The category into which the vector has been classified
-|SOURCE      | Not required
 |FORMAT      | Parameter instance
 
