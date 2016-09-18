@@ -56,8 +56,5 @@ add, admix, amalgamate, blend, coalesce, combine, commingle, compound, connect, 
 |SOURCE             | The array on which this operation is invoked.
 |ATTRIBUTE          | hasAttributes("OBJECT")
 |ALGORITHM          | Convert each array-element to a String (starting with index 0) and concat them. If the optional parameter separator is set, put it's value in between two concatenated strings.
-|RULE               | Not required
 |DESTINATION        | The result
-|LIMIT              | Not required
 |COMPARISON         | All elements of the array
-|PRIMARY KEY        | Not required
