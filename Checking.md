@@ -51,7 +51,6 @@ Validator
 |  Role            | Description                                            
 |------------------|--------------------------------------------------------
 |ALGORITHM         | Checks if an XML-document matches a given reference grammar.
-|PRIMARY KEY       | Not required
 |COMPARISON        | The reference grammar is implementation-depended.
 |REPORT            | The XML-document matches the grammer if no exception occurs.
 |OBJECT            | The content of the XML-document 
