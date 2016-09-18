@@ -48,7 +48,6 @@ Converter
 
 |  Role            | Description                                            
 |------------------|--------------------------------------------------------
-|RULE              | Not required
 |ALGORITHM         | See algorithm in API-documentation referenced above
 |INSTRUMENT        | The attribute locale of the given instance of UIViewRoot
 |DESTINATION FORMAT| java.util.Date
