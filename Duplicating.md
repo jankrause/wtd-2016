@@ -4,7 +4,7 @@
 A duplicating operation creates a copy of an OBJECT. This copy equals the original OBJECT. The OBJECT is read from a SOURCE and stored at a DESTINATION. The structure of the OBJECT is specified by a FORMAT. This pattern bases on the VerbNet-class transcribe-25.4.
 
 ## Verbs
-chronicle, clone, copy, document, duplicate, film, forge, imitate, microfilm, pho- tocopy, photograph, record, tally, tally up, tape, televise, transcribe, type
+chronicle, clone, copy, document, duplicate, film, forge, imitate, microfilm, photocopy, photograph, record, tally, tally up, tape, televise, transcribe, type
 
 ## Also known as
 
