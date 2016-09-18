@@ -53,5 +53,4 @@ Parser
 |SOURCE             | The optional parameter string
 |OBJECT             | The date encoded in string
 |FORMAT             | Not explicitly specified (except in the source code lib/date/format.rb#_parse()). The parameter comp defines, if the year XX should be interpreted as 19XX (true) or 20XX (false, default).
-|ALGORITHM          | Not required
 |INSTRUMENT         | Method lib/date/format.rb#_parse()
