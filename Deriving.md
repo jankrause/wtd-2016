@@ -47,7 +47,6 @@ conclude, derive
 |ALGORITHM         | Uses the hash-function specified by parameter ```algid´´´
 |REPORT            | The result
 |OBJECT            | The key for en- and decryption (parameter ```keyValue´´´)
-|RULE              | Not required
 |ATTRIBUTE         | The parameter ```sharedSecret´´´
 |ERROR ALGORITHM   | The result is SB_ERR_KDF_BAD_ALGORITHM (unknown algorithm)
 |ERROR ATTRIBUTE   | The result is SB_ERR_NULL_INPUT_BUF (ATTRIBUTE is ```null´´´) or SB_ERR_BAD_INPUT_BUF_LEN (ATTRIBUTE has an invalid length).
