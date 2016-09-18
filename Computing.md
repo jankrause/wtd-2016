@@ -47,4 +47,3 @@ add, average, calculate, compute, count, deduct, divide, extrapolate, factor out
 |OBJECT             | The value of the quotient
 |FORMULA            | this / parameter divisor. If the quotient should be rounded, this must be specified by setting the parameter roundingMode.
 |OPERAND            | this and parameter divisor
-|ORDERING           | Not required
