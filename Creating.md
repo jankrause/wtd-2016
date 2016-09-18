@@ -47,9 +47,6 @@ Constructor, Factory Method
 
 |  Role            | Description                                            
 |------------------|--------------------------------------------------------
-|DESTINATION       | Not required
 |OBJECT            | Created diagram
-|PRIMARY KEY       | Not required
 |NAME              | Parameter value
-|OWNER             | Not required
 |ATTRIBUTE         | All parameters
