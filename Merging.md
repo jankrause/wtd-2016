@@ -1,5 +1,3 @@
-TODO: Link zur Doku ergÃ€nzen
-
 # Merging Operation 
 
 ## Description 
