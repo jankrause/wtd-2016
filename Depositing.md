@@ -49,6 +49,5 @@ Setter
 |OBJECT            | Parameter value
 |DESTINATION       | Map (this)
 |PRIMARY KEY       | Parameter key
-|COMPARISON        | Not required
 |ERROR OBJECT      | It is possible to save null as value in a Map.
 |ERROR PRIMARY KEY | NullPointerException, if the implementation of the Map does not support null-keys or ClassCastException, if the key is not supported by the Map-implementation.
