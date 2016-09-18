@@ -8,6 +8,7 @@ A parsing operation reads ATTRIBUTEs from a SOURCE to create an OBJECT out of th
 parse, read
 
 ## Also known as
+Parser
 
 ## Thematic Roles
 
