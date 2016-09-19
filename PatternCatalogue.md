@@ -60,6 +60,7 @@
 ##S
 
 - [Searching Operation](patterns/Searching.md)
+- [Sending Operation](patterns/Sending.md)
 - [Submitting Operation](patterns/Submitting.md)
 - [Substituting Operation](patterns/Substituting.md)
 
