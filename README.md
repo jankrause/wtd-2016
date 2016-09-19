@@ -4,7 +4,7 @@ This repostory collects several patterns for specifiying API-operations. To find
 
 ## [Browse the API-Documentation Patterns](PatternCatalogue.md)
 
-## Read about the Theoretical Backgrond
+## Read about the Theoretical Background
   
   - [VerbNet](http://verbs.colorado.edu/~mpalmer/projects/verbnet.html) is the empirical basis of this approach and has been exteneded for its application to API-documentation.
   - [The basic approach](https://nats-www.informatik.uni-hamburg.de/pub/User/JanChristianKrause/SETP-10-Pub.pdf) is described in a research paper by Jan Christian.
