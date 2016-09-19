@@ -6,5 +6,6 @@ This repostory collects several patterns for specifiying API-operations. To find
 
 ## Read about the Theoretical Backgrond
   
-  - [Basic Approach](https://nats-www.informatik.uni-hamburg.de/pub/User/JanChristianKrause/SETP-10-Pub.pdf)
-  - [Empirical Research (in german)](http://ediss.sub.uni-hamburg.de/volltexte/2014/7022/)
+  - [VerbNet](http://verbs.colorado.edu/~mpalmer/projects/verbnet.html) is the empirical basis of this approach and has been exteneded for its application to API-documentation.
+  - [The basic approach](https://nats-www.informatik.uni-hamburg.de/pub/User/JanChristianKrause/SETP-10-Pub.pdf) is described in a research paper by Jan Christian.
+  - [The empirical foundation](http://ediss.sub.uni-hamburg.de/volltexte/2014/7022/) can be found in Jan Christian's doctoral thesis (in german).
