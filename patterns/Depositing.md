@@ -4,7 +4,7 @@
 A depositing operation puts an existing OBJECT at a DESTINATION, e.g. a collection or memory. There the OBJECT can be identified by a COMPARISON
 or PRIMARY KEY. This pattern bases on the VerbNet-class put-9.1.
 
-In contrast to a [Creating Operation](Creating.d) only deposits the OBJECT, but does not create it.
+In contrast to a [Creating Operation](Creating.md) only deposits the OBJECT, but does not create it.
 
 ## Verbs
 add, append, arrange, bury, deposit, embed, immerse, implant, insert, install, lodge, mount, move, park, persist, place, plant, position, put, save, set, situate, sling, stash, station, stick, store, stow, superimpose, write
